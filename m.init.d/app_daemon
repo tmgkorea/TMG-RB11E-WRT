@@ -1,5 +1,5 @@
 #!/bin/sh /etc/rc.common
-DAEMON=/root/app_c\&g
+DAEMON=/root/app_info
 DAEMON_OPTS="m"
 
 #exec >>/root/rclone.log 2>&1
